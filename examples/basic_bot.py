@@ -1,4 +1,4 @@
-# This example requires the 'members' and 'message_content' privileged intents to function.
+# This example requires the 'members' and 'message_content' privileged intents to function. soup soup soupfsadfdsafsad
 
 import discord
 from discord.ext import commands
